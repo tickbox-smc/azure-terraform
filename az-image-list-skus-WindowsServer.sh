@@ -1,0 +1,1 @@
+az vm image list-skus -l westus2 -p MicrosoftWindowsServer -f WindowsServer -o table

@@ -1,0 +1,1 @@
+az vm image list-offers -l westus2 -p RedHat -o table

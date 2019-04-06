@@ -1,0 +1,1 @@
+az vm image list-skus -l westus2 -p RedHat -f rhel-ocp-marketplace -o table

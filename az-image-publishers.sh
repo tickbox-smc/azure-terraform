@@ -1,0 +1,1 @@
+az vm image list-publishers -l westus2 -o table
