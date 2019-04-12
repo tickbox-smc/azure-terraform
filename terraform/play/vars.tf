@@ -15,7 +15,7 @@ variable "resource_prefix" {
 
 variable "web_server_address_space" {
   description = "VNet CIDR range"
-  default     = "0.0.0.0/22"
+  default     = ["10.0.0.0/22","10.10.0.0/22"]
 }
 
 variable "web_server_address_prefix" {
@@ -31,4 +31,9 @@ variable "web_server_name" {
 variable "environment" {
   description = "The deployment environment name"
   default     = "development"
+}
+
+variable "web_server_count"{
+  description = "The number of webservers"
+  default     = 0
 }

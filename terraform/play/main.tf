@@ -1,5 +1,5 @@
 provider "azurerm" {
-    version                 = "1.16"
+    #version                 = "1.16"
     #client_id               = "ead5f3e6-44b9-4e74-b2ac-e1b1b8f6e275"
     #client_secret        =   "YX6rFoXsEaoj2q6JzKbqb+T/q+7vyJc9u1JuWqfHs3E="
     #tenant_id           =  "1967a449-d2f3-4a81-b1f6-64ceaa0ace00"
@@ -20,34 +20,35 @@ resource "azurerm_virtual_network" "web_server_vnet" {
 }
 
 resource "azurerm_subnet" "web_server_subnet" {
-    name                                = "${var.resource_prefix}-subnet"
-    resource_group_name    = "${azurerm_resource_group.web_server_rg.name}"
-    virtual_network_name     = "${azurerm_virtual_network.web_server_vnet.name}"
-    address_prefix                 = "${var.web_server_address_prefix}"
+    name                                    = "${var.resource_prefix}-subnet"
+    resource_group_name        = "${azurerm_resource_group.web_server_rg.name}"
+    virtual_network_name         = "${azurerm_virtual_network.web_server_vnet.name}"
+    address_prefix                     = "${var.web_server_address_prefix}"
+    network_security_group_id = "${azurerm_network_security_group.web_server_nsg.id}"
 }
 
 resource "azurerm_network_interface" "web_server_nic" {
-    name                                = "${var.web_server_name}-nic"
-    location                            = "${var.web_server_location}"
+    name                                 = "${var.web_server_name}-${format("%02d", count.index)}-nic"
+    location                             = "${var.web_server_location}"
     resource_group_name     = "${azurerm_resource_group.web_server_rg.name}"
+    count                                 = "${var.web_server_count}"
 
-    # Associate the NSG with this network interface
-    network_security_group_id = "${azurerm_network_security_group.web_server_nsg.id}"
 
     ip_configuration {
-        name                                        = "${var.web_server_name}-ip"
+        name                                        = "${var.web_server_name}-${format("%02d", count.index)}-ip"
         subnet_id                                 = "${azurerm_subnet.web_server_subnet.id}"
         private_ip_address_allocation = "dynamic"
         # Associate the public ip with this nic
-        public_ip_address_id               = "${azurerm_public_ip.web_server_public_ip.id}"
+        public_ip_address_id               = "${azurerm_public_ip.web_server_public_ip.*.id[count.index]}"
     }
 }
 
 resource "azurerm_public_ip" "web_server_public_ip" {
-    name                                      = "${var.web_server_name}-public-ip"
-    location                                  = "${var.web_server_location}"
-    resource_group_name           = "${azurerm_resource_group.web_server_rg.name}"
+    name                                        = "${var.web_server_name}-${format("%02d", count.index)}-public-ip"
+    location                                    = "${var.web_server_location}"
+    resource_group_name            = "${azurerm_resource_group.web_server_rg.name}"
     public_ip_address_allocation = "${var.environment == "production" ? "static" : "dynamic"}"
+    count                                        = "${var.web_server_count}"
 }
 
 # Network Security Groups (NSG) = Security Group 
@@ -74,12 +75,12 @@ resource "azurerm_network_security_rule" "web_server_nsg_rule_rdp" {
 }
 
 resource "azurerm_virtual_machine" "web_server" {
-    name                                      = "${var.web_server_name}"
+    name                                      = "${var.web_server_name}-${format("%02d", count.index)}"
     location                                  = "${var.web_server_location}"
     resource_group_name           = "${azurerm_resource_group.web_server_rg.name}"
-    network_interface_ids           = ["${azurerm_network_interface.web_server_nic.id}"]
+    network_interface_ids           = ["${azurerm_network_interface.web_server_nic.*.id[count.index]}"]
     vm_size                                  = "Standard_B1s"
-
+    count                                        = "${var.web_server_count}"
     # Build the machine in the availability set
     availability_set_id                   = "${azurerm_availability_set.web_server_availability_set.id}"
     
@@ -91,14 +92,14 @@ resource "azurerm_virtual_machine" "web_server" {
     }
 
     storage_os_disk  {
-        name                         = "${var.web_server_name}-os"
+        name                         = "${var.web_server_name}-${format("%02d", count.index)}-os"
         caching                     = "ReadWrite"
         create_option            =  "FromImage"
         managed_disk_type  = "Standard_LRS"
     }
 
     os_profile {
-        computer_name       = "${var.web_server_name}"
+        computer_name       = "${var.web_server_name}-${format("%02d", count.index)}"
         admin_username      = "webserver"
         admin_password      = "Passw0rd1234"
     }
