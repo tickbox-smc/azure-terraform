@@ -1,0 +1,1 @@
+az vm extension image list-versions -l westus2 -p Microsoft.Compute -n CustomScriptExtension -o table

@@ -1,1 +1,1 @@
-az vm list-sizes -l westus2 -o table
+az vm extensions image list -l westus2 -o table

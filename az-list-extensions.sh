@@ -1,0 +1,1 @@
+az vm extension image-names -l westus2 -p Microsoft.Compute -o table

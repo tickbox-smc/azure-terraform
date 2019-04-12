@@ -1,117 +1,202 @@
 provider "azurerm" {
-    #version                 = "1.16"
-    #client_id               = "ead5f3e6-44b9-4e74-b2ac-e1b1b8f6e275"
-    #client_secret        =   "YX6rFoXsEaoj2q6JzKbqb+T/q+7vyJc9u1JuWqfHs3E="
-    #tenant_id           =  "1967a449-d2f3-4a81-b1f6-64ceaa0ace00"
-    #subscription_id   = "44ee1323-00ce-4b4f-bcf2-d279a3d621b1"
-}
-
-#resource group - A container that holds related resources for an Azure solution. The resource group includes those resources that you want to manage as a group. You decide how to allocate resources to resource groups based on what makes the most sense for your organization. See Resource groups.
-resource "azurerm_resource_group" "web_server_rg" {
-  name     = "${var.web_server_rg}"
-  location = "${var.web_server_location}"
-}
-
-resource "azurerm_virtual_network" "web_server_vnet" {
-    name                                = "${var.resource_prefix}-vnet"
-    location                            = "${var.web_server_location}"
-    resource_group_name     = "${azurerm_resource_group.web_server_rg.name}"
-    address_space                 = ["${var.web_server_address_space}"]
-}
-
-resource "azurerm_subnet" "web_server_subnet" {
-    name                                    = "${var.resource_prefix}-subnet"
-    resource_group_name        = "${azurerm_resource_group.web_server_rg.name}"
-    virtual_network_name         = "${azurerm_virtual_network.web_server_vnet.name}"
-    address_prefix                     = "${var.web_server_address_prefix}"
-    network_security_group_id = "${azurerm_network_security_group.web_server_nsg.id}"
-}
-
-resource "azurerm_network_interface" "web_server_nic" {
-    name                                 = "${var.web_server_name}-${format("%02d", count.index)}-nic"
-    location                             = "${var.web_server_location}"
-    resource_group_name     = "${azurerm_resource_group.web_server_rg.name}"
-    count                                 = "${var.web_server_count}"
-
-
-    ip_configuration {
-        name                                        = "${var.web_server_name}-${format("%02d", count.index)}-ip"
-        subnet_id                                 = "${azurerm_subnet.web_server_subnet.id}"
-        private_ip_address_allocation = "dynamic"
-        # Associate the public ip with this nic
-        public_ip_address_id               = "${azurerm_public_ip.web_server_public_ip.*.id[count.index]}"
-    }
-}
-
-resource "azurerm_public_ip" "web_server_public_ip" {
-    name                                        = "${var.web_server_name}-${format("%02d", count.index)}-public-ip"
-    location                                    = "${var.web_server_location}"
-    resource_group_name            = "${azurerm_resource_group.web_server_rg.name}"
-    public_ip_address_allocation = "${var.environment == "production" ? "static" : "dynamic"}"
-    count                                        = "${var.web_server_count}"
-}
-
-# Network Security Groups (NSG) = Security Group 
-resource "azurerm_network_security_group" "web_server_nsg" {
-    name                                      = "${var.web_server_name}-nsg"
-    location                                  = "${var.web_server_location}"
-    resource_group_name           = "${azurerm_resource_group.web_server_rg.name}"
-}
-
-# Rules
-resource "azurerm_network_security_rule" "web_server_nsg_rule_rdp" {
-    name = "RDP inbound"
-    priority = 100
-    direction = "Inbound"
-    access = "Allow"
-    protocol  = "TCP"
-    source_port_range = "*"
-    destination_port_range = "3389"
-    source_address_prefix = "*"
-    destination_address_prefix = "*"
-    resource_group_name           = "${azurerm_resource_group.web_server_rg.name}"
-    network_security_group_name = "${azurerm_network_security_group.web_server_nsg.name}"
 
 }
+module "location_us2w" {
+    source = "./location"
 
-resource "azurerm_virtual_machine" "web_server" {
-    name                                      = "${var.web_server_name}-${format("%02d", count.index)}"
-    location                                  = "${var.web_server_location}"
-    resource_group_name           = "${azurerm_resource_group.web_server_rg.name}"
-    network_interface_ids           = ["${azurerm_network_interface.web_server_nic.*.id[count.index]}"]
-    vm_size                                  = "Standard_B1s"
-    count                                        = "${var.web_server_count}"
-    # Build the machine in the availability set
-    availability_set_id                   = "${azurerm_availability_set.web_server_availability_set.id}"
-    
-    storage_image_reference {
-        publisher       = "MicrosoftWindowsServer"
-        offer              = "WindowsServer"
-        sku                = "2016-Datacenter-Server-Core-smalldisk"
-        version          = "latest"
+    web_server_location            = "westus2"
+    web_server_rg                      = "${var.web_server_rg}-us2w"
+    resource_prefix                    = "${var.resource_prefix}-us2w"
+    web_server_address_space = ["1.0.0.0/22"]
+    web_server_name                = "${var.web_server_name}"
+    environment                         = "${var.environment}"
+    web_server_count                = "${var.web_server_count}"
+    web_server_subnets            = ["1.0.1.0/24", "1.0.2.0/24"]
+    domain_name_label             = "${var.domain_name_label}"
+    terraform_script_version     = "${var.terraform_script_version}"
+}
+
+module "location_eu1w" {
+    source = "./location"
+
+    web_server_location            = "westeurope"
+    web_server_rg                      = "${var.web_server_rg}-eu1w"
+    resource_prefix                    = "${var.resource_prefix}-eu1w"
+    web_server_address_space = ["2.0.0.0/22"]
+    web_server_name                = "${var.web_server_name}"
+    environment                         = "${var.environment}"
+    web_server_count                = "${var.web_server_count}"
+    web_server_subnets            = ["2.0.1.0/24", "2.0.2.0/24"]
+    domain_name_label             = "${var.domain_name_label}"
+    terraform_script_version     = "${var.terraform_script_version}"
+}
+
+resource "azurerm_traffic_manager_profile" "traffic_manager"{
+    name                             = "${var.resource_prefix}-traffic-manager"
+    resource_group_name = "${module.location_us2w.web_server_rg_name}"
+    traffic_routing_method = "Weighted"
+
+    dns_config {
+        relative_name = "${var.domain_name_label}"
+        ttl                    = 100
     }
 
-    storage_os_disk  {
-        name                         = "${var.web_server_name}-${format("%02d", count.index)}-os"
-        caching                     = "ReadWrite"
-        create_option            =  "FromImage"
-        managed_disk_type  = "Standard_LRS"
+    monitor_config {
+        protocol = "http"
+        port        = "80"
+        path       = "/"
     }
 
-    os_profile {
-        computer_name       = "${var.web_server_name}-${format("%02d", count.index)}"
-        admin_username      = "webserver"
-        admin_password      = "Passw0rd1234"
-    }
-
-    os_profile_windows_config {
-    }
 }
 
-resource "azurerm_availability_set" "web_server_availability_set" {
-    name                                        = "${var.resource_prefix}-availability-set"
-    location                                   = "${var.web_server_location}"
-    resource_group_name            = "${azurerm_resource_group.web_server_rg.name}"  
-    managed                                 = true
-    platform_fault_domain_count = 2
+resource "azurerm_traffic_manager_endpoint"  "traffic_manager_us2w" {
+    name                             = "${var.resource_prefix}-us2w-endpoint"
+    resource_group_name = "${module.location_us2w.web_server_rg_name}"
+    profile_name                 = "${azurerm_traffic_manager_profile.traffic_manager.name}"
+    target_resource_id       = "${module.location_us2w.web_server_public_ip_id}"
+    type                              = "azureEndpoints"
+    weight                          = 100
+}
+
+resource "azurerm_traffic_manager_endpoint"  "traffic_manager_eu1w" {
+    name                             = "${var.resource_prefix}-eu1w-endpoint"
+    resource_group_name = "${module.location_us2w.web_server_rg_name}"
+    profile_name                 = "${azurerm_traffic_manager_profile.traffic_manager.name}"
+    target_resource_id       = "${module.location_eu1w.web_server_public_ip_id}"
+    type                              = "azureEndpoints"
+    weight                          = 100
+}
+
+resource "azurerm_resource_group" "jump_server_rg" {
+    name     = "${var.jump_server_prefix}-rg"
+    location = "${var.jump_server_location}"
+
+}
+
+resource "azurerm_virtual_network" "jump_server_vnet" {
+    name     = "${var.jump_server_prefix}-vnet"
+    location = "${var.jump_server_location}"
+    resource_group_name = "${azurerm_resource_group.jump_server_rg.name}"
+    address_space             = ["3.0.0.0/24"]
+}
+
+resource "azurerm_subnet" "jump_server_subnet" {
+    name     = "${var.jump_server_prefix}-3.0.0.0-subnet"
+    resource_group_name = "${azurerm_resource_group.jump_server_rg.name}"
+    virtual_network_name = "${azurerm_virtual_network.jump_server_vnet.name}"
+    address_prefix             = "3.0.0.0/24"
+}
+
+resource "azurerm_virtual_network_peering" "jump_server_peer_web_us2w" {
+     name                                       = "jump-eu1w-peer-web-us2w"
+    resource_group_name             = "${azurerm_resource_group.jump_server_rg.name}"
+    virtual_network_name             = "${azurerm_virtual_network.jump_server_vnet.name}"
+    remote_virtual_network_id      = "${module.location_us2w.web_server_vnet_id}"
+    allow_virtual_network_access = true
+    # Had to add this to make it work properly as terraform tries to create the subnet and the vnet at the same time. This stops it.
+    depends_on                              = ["azurerm_subnet.jump_server_subnet"]
+}
+
+resource "azurerm_virtual_network_peering" "web_us2w_peer_jump_server" {
+    name                                       = "web-us2w-peer-jump-eu1w"
+    resource_group_name             = "${module.location_us2w.web_server_rg_name}"
+    virtual_network_name             = "${module.location_us2w.web_server_vnet_name}"
+    remote_virtual_network_id      = "${azurerm_virtual_network.jump_server_vnet.id}"
+    allow_virtual_network_access = true
+    # Had to add this to make it work properly as terraform tries to create the subnet and the vnet at the same time. This stops it.
+    depends_on                              = ["azurerm_subnet.jump_server_subnet"]
+}
+
+# Create peering for EU location
+resource "azurerm_virtual_network_peering" "jump_server_peer_web_eu1w" {
+     name                                       = "jump-eu1w-peer-web-eu1w"
+    resource_group_name             = "${azurerm_resource_group.jump_server_rg.name}"
+    virtual_network_name             = "${azurerm_virtual_network.jump_server_vnet.name}"
+    remote_virtual_network_id      = "${module.location_eu1w.web_server_vnet_id}"
+    allow_virtual_network_access = true
+    # Had to add this to make it work properly as terraform tries to create the subnet and the vnet at the same time. This stops it.
+    depends_on                              = ["azurerm_subnet.jump_server_subnet"]
+}
+
+resource "azurerm_virtual_network_peering" "web_eu1w_peer_jump_server" {
+     name                                       = "web-eu1w-peer-jump-eu1w"
+    resource_group_name             = "${module.location_eu1w.web_server_rg_name}"
+    virtual_network_name             = "${module.location_eu1w.web_server_vnet_name}"
+    remote_virtual_network_id      = "${azurerm_virtual_network.jump_server_vnet.id}"
+    allow_virtual_network_access = true
+    # Had to add this to make it work properly as terraform tries to create the subnet and the vnet at the same time. This stops it.
+    depends_on                              = ["azurerm_subnet.jump_server_subnet"]
+}
+
+resource "azurerm_network_interface" "jump_server_nic" {
+  name                                      = "${var.jump_server_name}-nic"
+  location                                  = "${var.jump_server_location}"
+  resource_group_name          = "${azurerm_resource_group.jump_server_rg.name}"
+  network_security_group_id   = "${azurerm_network_security_group.jump_server_nsg.id}"
+
+  ip_configuration {
+    name                                        = "${var.jump_server_name}-ip"
+    subnet_id                                 = "${azurerm_subnet.jump_server_subnet.id}"
+    private_ip_address_allocation = "dynamic"
+    public_ip_address_id                = "${azurerm_public_ip.jump_server_public_ip.id}"
+  }
+}
+
+resource "azurerm_public_ip" "jump_server_public_ip" {
+  name                                      = "${var.jump_server_name}-public-ip"
+  location                                  = "${var.jump_server_location}"
+  resource_group_name           = "${azurerm_resource_group.jump_server_rg.name}"
+  public_ip_address_allocation = "${var.environment == "production" ? "static" : "dynamic"}"
+}
+
+resource "azurerm_network_security_group" "jump_server_nsg" {
+  name                              = "${var.jump_server_name}-nsg"
+  location                          = "${var.jump_server_location}"
+  resource_group_name   = "${azurerm_resource_group.jump_server_rg.name}" 
+}
+
+resource "azurerm_network_security_rule" "jump_server_nsg_rule_rdp" {
+  name                                              = "RDP Inbound"
+  priority                                           = 100
+  direction                                         = "Inbound"
+  access                                            = "Allow"
+  protocol                                          = "Tcp"
+  source_port_range                         = "*"
+  destination_port_range                 = "3389"
+  source_address_prefix                  = "*"
+  destination_address_prefix           = "*"
+  resource_group_name                   = "${azurerm_resource_group.jump_server_rg.name}" 
+  network_security_group_name     = "${azurerm_network_security_group.jump_server_nsg.name}" 
+}
+
+resource "azurerm_virtual_machine" "jump_server" {
+  name                                    = "${var.jump_server_name}"
+  location                               = "${var.jump_server_location}"
+  resource_group_name        = "${azurerm_resource_group.jump_server_rg.name}"  
+  network_interface_ids        = ["${azurerm_network_interface.jump_server_nic.id}"]
+  vm_size                               = "Standard_B1s"
+
+  storage_image_reference {
+    publisher = "MicrosoftWindowsServer"
+    offer         = "WindowsServer"
+    sku           = "2016-Datacenter"
+    version     = "latest"
+  }
+
+  storage_os_disk {
+    name                          = "${var.jump_server_name}-os"    
+    caching                     = "ReadWrite"
+    create_option           = "FromImage"
+    managed_disk_type = "Standard_LRS"
+  }
+  
+  os_profile {
+    computer_name      = "${var.jump_server_name}" 
+    admin_username     = "jumpserver"
+    admin_password     = "Passw0rd1234"
+  }
+
+  os_profile_windows_config {
+  }
+
 }
