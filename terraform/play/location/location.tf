@@ -20,7 +20,7 @@ resource "azurerm_virtual_network" "web_server_vnet" {
     address_space                 = ["${var.web_server_address_space}"]
 
     lifecycle {
-        prevent_destroy = true
+        prevent_destroy = false
     }
 }
 
