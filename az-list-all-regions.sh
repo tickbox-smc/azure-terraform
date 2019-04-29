@@ -1,0 +1,1 @@
+az account list-locations -l westus2 -o table

@@ -1,0 +1,4970 @@
+[
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/128technology",
+    "location": "westus2",
+    "name": "128technology",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/1e",
+    "location": "westus2",
+    "name": "1e",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/2021ai",
+    "location": "westus2",
+    "name": "2021ai",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/4psa",
+    "location": "westus2",
+    "name": "4psa",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/5nine-software-inc",
+    "location": "westus2",
+    "name": "5nine-software-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/7isolutions",
+    "location": "westus2",
+    "name": "7isolutions",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/a10networks",
+    "location": "westus2",
+    "name": "a10networks",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/a10_networks-5255398",
+    "location": "westus2",
+    "name": "a10_networks-5255398",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/abiquo",
+    "location": "westus2",
+    "name": "abiquo",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/accedian",
+    "location": "westus2",
+    "name": "accedian",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/accellion",
+    "location": "westus2",
+    "name": "accellion",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/accessdata-group",
+    "location": "westus2",
+    "name": "accessdata-group",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/accops",
+    "location": "westus2",
+    "name": "accops",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/acronis",
+    "location": "westus2",
+    "name": "acronis",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Acronis.Backup",
+    "location": "westus2",
+    "name": "Acronis.Backup",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/actian-corp",
+    "location": "westus2",
+    "name": "actian-corp",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/actian_matrix",
+    "location": "westus2",
+    "name": "actian_matrix",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/actifio",
+    "location": "westus2",
+    "name": "actifio",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/activeeon",
+    "location": "westus2",
+    "name": "activeeon",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/adgs",
+    "location": "westus2",
+    "name": "adgs",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/advantech-webaccess",
+    "location": "westus2",
+    "name": "advantech-webaccess",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/advantys",
+    "location": "westus2",
+    "name": "advantys",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/aerospike",
+    "location": "westus2",
+    "name": "aerospike",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/affinio",
+    "location": "westus2",
+    "name": "affinio",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/aggregion-ltd",
+    "location": "westus2",
+    "name": "aggregion-ltd",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/airalabrus",
+    "location": "westus2",
+    "name": "airalabrus",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/aiscaler-cache-control-ddos-and-url-rewriting-",
+    "location": "westus2",
+    "name": "aiscaler-cache-control-ddos-and-url-rewriting-",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/akamai-technologies",
+    "location": "westus2",
+    "name": "akamai-technologies",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/akumina",
+    "location": "westus2",
+    "name": "akumina",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/akumo-software",
+    "location": "westus2",
+    "name": "akumo-software",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/alachisoft",
+    "location": "westus2",
+    "name": "alachisoft",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/alertlogic",
+    "location": "westus2",
+    "name": "alertlogic",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/AlertLogic.Extension",
+    "location": "westus2",
+    "name": "AlertLogic.Extension",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/alienvault",
+    "location": "westus2",
+    "name": "alienvault",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/alldigital-brevity",
+    "location": "westus2",
+    "name": "alldigital-brevity",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/altair-engineering-inc",
+    "location": "westus2",
+    "name": "altair-engineering-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/altamira-corporation",
+    "location": "westus2",
+    "name": "altamira-corporation",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/alteryx",
+    "location": "westus2",
+    "name": "alteryx",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/altova",
+    "location": "westus2",
+    "name": "altova",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/antmedia",
+    "location": "westus2",
+    "name": "antmedia",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/aod",
+    "location": "westus2",
+    "name": "aod",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/apigee",
+    "location": "westus2",
+    "name": "apigee",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/appcara",
+    "location": "westus2",
+    "name": "appcara",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/appcelerator",
+    "location": "westus2",
+    "name": "appcelerator",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/appex-networks",
+    "location": "westus2",
+    "name": "appex-networks",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/appistry",
+    "location": "westus2",
+    "name": "appistry",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/appiyo_technologies",
+    "location": "westus2",
+    "name": "appiyo_technologies",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/apps-4-rent",
+    "location": "westus2",
+    "name": "apps-4-rent",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/appscale-marketplace",
+    "location": "westus2",
+    "name": "appscale-marketplace",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/aquaforest",
+    "location": "westus2",
+    "name": "aquaforest",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/arabesque-group",
+    "location": "westus2",
+    "name": "arabesque-group",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/arangodb",
+    "location": "westus2",
+    "name": "arangodb",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/aras",
+    "location": "westus2",
+    "name": "aras",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/arcblock",
+    "location": "westus2",
+    "name": "arcblock",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/arista-networks",
+    "location": "westus2",
+    "name": "arista-networks",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/ariwontollc",
+    "location": "westus2",
+    "name": "ariwontollc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/array_networks",
+    "location": "westus2",
+    "name": "array_networks",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/artificial-intelligence-techniques-sl",
+    "location": "westus2",
+    "name": "artificial-intelligence-techniques-sl",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/asigra",
+    "location": "westus2",
+    "name": "asigra",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/astadia-1148316",
+    "location": "westus2",
+    "name": "astadia-1148316",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/atlassian",
+    "location": "westus2",
+    "name": "atlassian",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/atomicorp",
+    "location": "westus2",
+    "name": "atomicorp",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/attunity_cloudbeam",
+    "location": "westus2",
+    "name": "attunity_cloudbeam",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/audiocodes",
+    "location": "westus2",
+    "name": "audiocodes",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/auraportal",
+    "location": "westus2",
+    "name": "auraportal",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/auriq-systems",
+    "location": "westus2",
+    "name": "auriq-systems",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/avepoint",
+    "location": "westus2",
+    "name": "avepoint",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/avi-networks",
+    "location": "westus2",
+    "name": "avi-networks",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/aviatrix-systems",
+    "location": "westus2",
+    "name": "aviatrix-systems",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/awingu",
+    "location": "westus2",
+    "name": "awingu",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/axway",
+    "location": "westus2",
+    "name": "axway",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/azul",
+    "location": "westus2",
+    "name": "azul",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/azurecyclecloud",
+    "location": "westus2",
+    "name": "azurecyclecloud",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/AzureDatabricks",
+    "location": "westus2",
+    "name": "AzureDatabricks",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/AzureRT.Test",
+    "location": "westus2",
+    "name": "AzureRT.Test",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/azuretesting",
+    "location": "westus2",
+    "name": "azuretesting",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/azuretesting2",
+    "location": "westus2",
+    "name": "azuretesting2",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/azuretesting3",
+    "location": "westus2",
+    "name": "azuretesting3",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/AzureTools1type",
+    "location": "westus2",
+    "name": "AzureTools1type",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/baas-techbureau",
+    "location": "westus2",
+    "name": "baas-techbureau",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/baffle-io",
+    "location": "westus2",
+    "name": "baffle-io",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/balabit",
+    "location": "westus2",
+    "name": "balabit",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Barracuda",
+    "location": "westus2",
+    "name": "Barracuda",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/barracudanetworks",
+    "location": "westus2",
+    "name": "barracudanetworks",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/basho",
+    "location": "westus2",
+    "name": "basho",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/batch",
+    "location": "westus2",
+    "name": "batch",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/bdy",
+    "location": "westus2",
+    "name": "bdy",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/beyondtrust",
+    "location": "westus2",
+    "name": "beyondtrust",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/bi-builders-as",
+    "location": "westus2",
+    "name": "bi-builders-as",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/bitnami",
+    "location": "westus2",
+    "name": "bitnami",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/bizagi",
+    "location": "westus2",
+    "name": "bizagi",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/biztalk360",
+    "location": "westus2",
+    "name": "biztalk360",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/black-duck-software",
+    "location": "westus2",
+    "name": "black-duck-software",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/blackberry",
+    "location": "westus2",
+    "name": "blackberry",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/blackbird",
+    "location": "westus2",
+    "name": "blackbird",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/blk-technologies",
+    "location": "westus2",
+    "name": "blk-technologies",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/blockapps",
+    "location": "westus2",
+    "name": "blockapps",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/blockchain-foundry",
+    "location": "westus2",
+    "name": "blockchain-foundry",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/blockstack",
+    "location": "westus2",
+    "name": "blockstack",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/bloombase",
+    "location": "westus2",
+    "name": "bloombase",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/bluecat",
+    "location": "westus2",
+    "name": "bluecat",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/bluetalon",
+    "location": "westus2",
+    "name": "bluetalon",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/bmc.ctm",
+    "location": "westus2",
+    "name": "bmc.ctm",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/bmcctm.test",
+    "location": "westus2",
+    "name": "bmcctm.test",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/bocada",
+    "location": "westus2",
+    "name": "bocada",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/bravura-software-llc",
+    "location": "westus2",
+    "name": "bravura-software-llc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/brocade_communications",
+    "location": "westus2",
+    "name": "brocade_communications",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/bt-americas-inc",
+    "location": "westus2",
+    "name": "bt-americas-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/buddhalabs",
+    "location": "westus2",
+    "name": "buddhalabs",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Canonical",
+    "location": "westus2",
+    "name": "Canonical",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/carto",
+    "location": "westus2",
+    "name": "carto",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cask",
+    "location": "westus2",
+    "name": "cask",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/catechnologies",
+    "location": "westus2",
+    "name": "catechnologies",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cautelalabs",
+    "location": "westus2",
+    "name": "cautelalabs",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cavirin",
+    "location": "westus2",
+    "name": "cavirin",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cds",
+    "location": "westus2",
+    "name": "cds",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/celum-gmbh",
+    "location": "westus2",
+    "name": "celum-gmbh",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/center-for-internet-security-inc",
+    "location": "westus2",
+    "name": "center-for-internet-security-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/certivox",
+    "location": "westus2",
+    "name": "certivox",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cfd-direct",
+    "location": "westus2",
+    "name": "cfd-direct",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/chain",
+    "location": "westus2",
+    "name": "chain",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/checkpoint",
+    "location": "westus2",
+    "name": "checkpoint",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/chef-software",
+    "location": "westus2",
+    "name": "chef-software",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Chef.Bootstrap.WindowsAzure",
+    "location": "westus2",
+    "name": "Chef.Bootstrap.WindowsAzure",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cinegy-gmbh",
+    "location": "westus2",
+    "name": "cinegy-gmbh",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/circleci",
+    "location": "westus2",
+    "name": "circleci",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cires21",
+    "location": "westus2",
+    "name": "cires21",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cisco",
+    "location": "westus2",
+    "name": "cisco",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/citrix",
+    "location": "westus2",
+    "name": "citrix",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/clear-linux-project",
+    "location": "westus2",
+    "name": "clear-linux-project",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/clouber",
+    "location": "westus2",
+    "name": "clouber",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cloud-checkr",
+    "location": "westus2",
+    "name": "cloud-checkr",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cloud-cruiser",
+    "location": "westus2",
+    "name": "cloud-cruiser",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cloud-infrastructure-services",
+    "location": "westus2",
+    "name": "cloud-infrastructure-services",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cloudbees",
+    "location": "westus2",
+    "name": "cloudbees",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cloudbees-enterprise-jenkins",
+    "location": "westus2",
+    "name": "cloudbees-enterprise-jenkins",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cloudbolt-software",
+    "location": "westus2",
+    "name": "cloudbolt-software",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cloudboost",
+    "location": "westus2",
+    "name": "cloudboost",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cloudenablers-inc",
+    "location": "westus2",
+    "name": "cloudenablers-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cloudera",
+    "location": "westus2",
+    "name": "cloudera",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cloudflare",
+    "location": "westus2",
+    "name": "cloudflare",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cloudhouse",
+    "location": "westus2",
+    "name": "cloudhouse",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cloudhub-technologies",
+    "location": "westus2",
+    "name": "cloudhub-technologies",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cloudlanes",
+    "location": "westus2",
+    "name": "cloudlanes",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cloudlink",
+    "location": "westus2",
+    "name": "cloudlink",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/CloudLinkEMC.SecureVM",
+    "location": "westus2",
+    "name": "CloudLinkEMC.SecureVM",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cloudneeti",
+    "location": "westus2",
+    "name": "cloudneeti",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cloudplan-gmbh",
+    "location": "westus2",
+    "name": "cloudplan-gmbh",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cloudsecurity",
+    "location": "westus2",
+    "name": "cloudsecurity",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cloudsoft",
+    "location": "westus2",
+    "name": "cloudsoft",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/clustrix",
+    "location": "westus2",
+    "name": "clustrix",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/codelathe",
+    "location": "westus2",
+    "name": "codelathe",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/codenvy",
+    "location": "westus2",
+    "name": "codenvy",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cognosys",
+    "location": "westus2",
+    "name": "cognosys",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cohesity",
+    "location": "westus2",
+    "name": "cohesity",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cohesive",
+    "location": "westus2",
+    "name": "cohesive",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/commvault",
+    "location": "westus2",
+    "name": "commvault",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/composable",
+    "location": "westus2",
+    "name": "composable",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/comunity",
+    "location": "westus2",
+    "name": "comunity",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Confer",
+    "location": "westus2",
+    "name": "Confer",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/confluentinc",
+    "location": "westus2",
+    "name": "confluentinc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/connecting-software",
+    "location": "westus2",
+    "name": "connecting-software",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/consensys",
+    "location": "westus2",
+    "name": "consensys",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/containeraider",
+    "location": "westus2",
+    "name": "containeraider",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/controlcase",
+    "location": "westus2",
+    "name": "controlcase",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/convertigo",
+    "location": "westus2",
+    "name": "convertigo",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/corda",
+    "location": "westus2",
+    "name": "corda",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/CoreOS",
+    "location": "westus2",
+    "name": "CoreOS",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/couchbase",
+    "location": "westus2",
+    "name": "couchbase",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/credativ",
+    "location": "westus2",
+    "name": "credativ",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cryptzone",
+    "location": "westus2",
+    "name": "cryptzone",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/ctm.bmc.com",
+    "location": "westus2",
+    "name": "ctm.bmc.com",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cybernetica-as",
+    "location": "westus2",
+    "name": "cybernetica-as",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/cyxtera",
+    "location": "westus2",
+    "name": "cyxtera",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/d4t4_solutions-1164305",
+    "location": "westus2",
+    "name": "d4t4_solutions-1164305",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/danielsol.AzureTools1",
+    "location": "westus2",
+    "name": "danielsol.AzureTools1",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Dans.Windows.App",
+    "location": "westus2",
+    "name": "Dans.Windows.App",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Dans3.Windows.App",
+    "location": "westus2",
+    "name": "Dans3.Windows.App",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/dataart",
+    "location": "westus2",
+    "name": "dataart",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/databricks",
+    "location": "westus2",
+    "name": "databricks",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/datacore",
+    "location": "westus2",
+    "name": "datacore",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Datadog.Agent",
+    "location": "westus2",
+    "name": "Datadog.Agent",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/dataiku",
+    "location": "westus2",
+    "name": "dataiku",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/datalayer",
+    "location": "westus2",
+    "name": "datalayer",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/datastax",
+    "location": "westus2",
+    "name": "datastax",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/datasunrise",
+    "location": "westus2",
+    "name": "datasunrise",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/datometry",
+    "location": "westus2",
+    "name": "datometry",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/ddn-whamcloud-5345716",
+    "location": "westus2",
+    "name": "ddn-whamcloud-5345716",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/dece-4446019",
+    "location": "westus2",
+    "name": "dece-4446019",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/decisosalesbv",
+    "location": "westus2",
+    "name": "decisosalesbv",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/dellemc",
+    "location": "westus2",
+    "name": "dellemc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/dell_software",
+    "location": "westus2",
+    "name": "dell_software",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/delphix",
+    "location": "westus2",
+    "name": "delphix",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/denodo",
+    "location": "westus2",
+    "name": "denodo",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/denyall",
+    "location": "westus2",
+    "name": "denyall",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/derdack",
+    "location": "westus2",
+    "name": "derdack",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/devfactory",
+    "location": "westus2",
+    "name": "devfactory",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/dgsecure",
+    "location": "westus2",
+    "name": "dgsecure",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/dhi",
+    "location": "westus2",
+    "name": "dhi",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/diagramics",
+    "location": "westus2",
+    "name": "diagramics",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/diehl-metering",
+    "location": "westus2",
+    "name": "diehl-metering",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/diffeoinc",
+    "location": "westus2",
+    "name": "diffeoinc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/diladele",
+    "location": "westus2",
+    "name": "diladele",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/dimensionalmechanics-inc",
+    "location": "westus2",
+    "name": "dimensionalmechanics-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/diqa",
+    "location": "westus2",
+    "name": "diqa",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/docker",
+    "location": "westus2",
+    "name": "docker",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/dome9",
+    "location": "westus2",
+    "name": "dome9",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/drizti",
+    "location": "westus2",
+    "name": "drizti",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/drone",
+    "location": "westus2",
+    "name": "drone",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/dsi",
+    "location": "westus2",
+    "name": "dsi",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/dundas",
+    "location": "westus2",
+    "name": "dundas",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/dyadic_security",
+    "location": "westus2",
+    "name": "dyadic_security",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/dynatrace",
+    "location": "westus2",
+    "name": "dynatrace",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/dynatrace.ruxit",
+    "location": "westus2",
+    "name": "dynatrace.ruxit",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/eastwind-networks-inc",
+    "location": "westus2",
+    "name": "eastwind-networks-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/edevtech",
+    "location": "westus2",
+    "name": "edevtech",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/education4sight",
+    "location": "westus2",
+    "name": "education4sight",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/egnyte",
+    "location": "westus2",
+    "name": "egnyte",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/elasticbox",
+    "location": "westus2",
+    "name": "elasticbox",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/elecard",
+    "location": "westus2",
+    "name": "elecard",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/electric-cloud",
+    "location": "westus2",
+    "name": "electric-cloud",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/elevateiot",
+    "location": "westus2",
+    "name": "elevateiot",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/elfiqnetworks",
+    "location": "westus2",
+    "name": "elfiqnetworks",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/emercoin",
+    "location": "westus2",
+    "name": "emercoin",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/enforongo",
+    "location": "westus2",
+    "name": "enforongo",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/enterprise-ethereum-alliance",
+    "location": "westus2",
+    "name": "enterprise-ethereum-alliance",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/enterprisedb-corp",
+    "location": "westus2",
+    "name": "enterprisedb-corp",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/enterpriseworx-it",
+    "location": "westus2",
+    "name": "enterpriseworx-it",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/equalum",
+    "location": "westus2",
+    "name": "equalum",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/equilibrium",
+    "location": "westus2",
+    "name": "equilibrium",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/esdenera",
+    "location": "westus2",
+    "name": "esdenera",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/eset",
+    "location": "westus2",
+    "name": "eset",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/esri",
+    "location": "westus2",
+    "name": "esri",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/esyon",
+    "location": "westus2",
+    "name": "esyon",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/ethereum",
+    "location": "westus2",
+    "name": "ethereum",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/eventtracker",
+    "location": "westus2",
+    "name": "eventtracker",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/evostream-inc",
+    "location": "westus2",
+    "name": "evostream-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/exact",
+    "location": "westus2",
+    "name": "exact",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/exasol",
+    "location": "westus2",
+    "name": "exasol",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/exivity",
+    "location": "westus2",
+    "name": "exivity",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/f5-networks",
+    "location": "westus2",
+    "name": "f5-networks",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/falconstorsoftware",
+    "location": "westus2",
+    "name": "falconstorsoftware",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/fatpipe-inc",
+    "location": "westus2",
+    "name": "fatpipe-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/fidesys",
+    "location": "westus2",
+    "name": "fidesys",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/filecatalyst",
+    "location": "westus2",
+    "name": "filecatalyst",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/firehost",
+    "location": "westus2",
+    "name": "firehost",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/flashgrid-inc",
+    "location": "westus2",
+    "name": "flashgrid-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/flexbby-5255860",
+    "location": "westus2",
+    "name": "flexbby-5255860",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/flexify-io",
+    "location": "westus2",
+    "name": "flexify-io",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/flowmon",
+    "location": "westus2",
+    "name": "flowmon",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/flynet",
+    "location": "westus2",
+    "name": "flynet",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/foghorn-systems",
+    "location": "westus2",
+    "name": "foghorn-systems",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/forcepoint-llc",
+    "location": "westus2",
+    "name": "forcepoint-llc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/forscene",
+    "location": "westus2",
+    "name": "forscene",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/fortinet",
+    "location": "westus2",
+    "name": "fortinet",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/fortycloud",
+    "location": "westus2",
+    "name": "fortycloud",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/fujitsu_fast",
+    "location": "westus2",
+    "name": "fujitsu_fast",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/fw",
+    "location": "westus2",
+    "name": "fw",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/gapteq",
+    "location": "westus2",
+    "name": "gapteq",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/gbs",
+    "location": "westus2",
+    "name": "gbs",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/gemalto-safenet",
+    "location": "westus2",
+    "name": "gemalto-safenet",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Gemalto.SafeNet.ProtectV",
+    "location": "westus2",
+    "name": "Gemalto.SafeNet.ProtectV",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/genesys-source",
+    "location": "westus2",
+    "name": "genesys-source",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/gigamon-inc",
+    "location": "westus2",
+    "name": "gigamon-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/GitHub",
+    "location": "westus2",
+    "name": "GitHub",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/gitlab",
+    "location": "westus2",
+    "name": "gitlab",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/globalscape",
+    "location": "westus2",
+    "name": "globalscape",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/graphitegtc",
+    "location": "westus2",
+    "name": "graphitegtc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/great-software-laboratory-private-limited",
+    "location": "westus2",
+    "name": "great-software-laboratory-private-limited",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/greensql",
+    "location": "westus2",
+    "name": "greensql",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/greycorbelsolutions",
+    "location": "westus2",
+    "name": "greycorbelsolutions",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/gridgain",
+    "location": "westus2",
+    "name": "gridgain",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/guardicore",
+    "location": "westus2",
+    "name": "guardicore",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/h2o-ai",
+    "location": "westus2",
+    "name": "h2o-ai",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/hackershub",
+    "location": "westus2",
+    "name": "hackershub",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/haivision",
+    "location": "westus2",
+    "name": "haivision",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/hanu",
+    "location": "westus2",
+    "name": "hanu",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/haproxy-technologies",
+    "location": "westus2",
+    "name": "haproxy-technologies",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/harpaitalia",
+    "location": "westus2",
+    "name": "harpaitalia",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/hashhub",
+    "location": "westus2",
+    "name": "hashhub",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/hcl-technologies",
+    "location": "westus2",
+    "name": "hcl-technologies",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/heimdall-data",
+    "location": "westus2",
+    "name": "heimdall-data",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/help-systems",
+    "location": "westus2",
+    "name": "help-systems",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/hewlett-packard",
+    "location": "westus2",
+    "name": "hewlett-packard",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/hillstone-networks",
+    "location": "westus2",
+    "name": "hillstone-networks",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/hitachi-solutions",
+    "location": "westus2",
+    "name": "hitachi-solutions",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/hortonworks",
+    "location": "westus2",
+    "name": "hortonworks",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/hpe",
+    "location": "westus2",
+    "name": "hpe",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/HPE.Security.ApplicationDefender",
+    "location": "westus2",
+    "name": "HPE.Security.ApplicationDefender",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/hr_focus_holdings",
+    "location": "westus2",
+    "name": "hr_focus_holdings",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/huawei",
+    "location": "westus2",
+    "name": "huawei",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/hubstor-inc",
+    "location": "westus2",
+    "name": "hubstor-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/hush-hush",
+    "location": "westus2",
+    "name": "hush-hush",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/hvr",
+    "location": "westus2",
+    "name": "hvr",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/hyperglance",
+    "location": "westus2",
+    "name": "hyperglance",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/hypergrid",
+    "location": "westus2",
+    "name": "hypergrid",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/hytrust",
+    "location": "westus2",
+    "name": "hytrust",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/i-exceed-technology",
+    "location": "westus2",
+    "name": "i-exceed-technology",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/iaansys",
+    "location": "westus2",
+    "name": "iaansys",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/ibm",
+    "location": "westus2",
+    "name": "ibm",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/iboss",
+    "location": "westus2",
+    "name": "iboss",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/ikan",
+    "location": "westus2",
+    "name": "ikan",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/image-technologies",
+    "location": "westus2",
+    "name": "image-technologies",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/imaginecommunications",
+    "location": "westus2",
+    "name": "imaginecommunications",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/imperva",
+    "location": "westus2",
+    "name": "imperva",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/incorta",
+    "location": "westus2",
+    "name": "incorta",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/incredibuild",
+    "location": "westus2",
+    "name": "incredibuild",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/industry-weapon",
+    "location": "westus2",
+    "name": "industry-weapon",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/infoblox",
+    "location": "westus2",
+    "name": "infoblox",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/infolibrarian",
+    "location": "westus2",
+    "name": "infolibrarian",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/informatica",
+    "location": "westus2",
+    "name": "informatica",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/informationbuilders",
+    "location": "westus2",
+    "name": "informationbuilders",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/infront-consulting-group-ltd",
+    "location": "westus2",
+    "name": "infront-consulting-group-ltd",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/ingrammicro",
+    "location": "westus2",
+    "name": "ingrammicro",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/integration-objects",
+    "location": "westus2",
+    "name": "integration-objects",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/intel-bigdl",
+    "location": "westus2",
+    "name": "intel-bigdl",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/intel-fpga",
+    "location": "westus2",
+    "name": "intel-fpga",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/intellicus-technologies-pvt-ltd",
+    "location": "westus2",
+    "name": "intellicus-technologies-pvt-ltd",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/intelligent-plant-ltd",
+    "location": "westus2",
+    "name": "intelligent-plant-ltd",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/intersystems",
+    "location": "westus2",
+    "name": "intersystems",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/intigua",
+    "location": "westus2",
+    "name": "intigua",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/ipswitch",
+    "location": "westus2",
+    "name": "ipswitch",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/iquest",
+    "location": "westus2",
+    "name": "iquest",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/ishlangu-load-balancer-adc",
+    "location": "westus2",
+    "name": "ishlangu-load-balancer-adc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/issp-corporation",
+    "location": "westus2",
+    "name": "issp-corporation",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/isvtestukbigcat",
+    "location": "westus2",
+    "name": "isvtestukbigcat",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/isvtestuklegacy",
+    "location": "westus2",
+    "name": "isvtestuklegacy",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/itelios",
+    "location": "westus2",
+    "name": "itelios",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/izenda",
+    "location": "westus2",
+    "name": "izenda",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/jamcracker",
+    "location": "westus2",
+    "name": "jamcracker",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/jedox",
+    "location": "westus2",
+    "name": "jedox",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/jelastic",
+    "location": "westus2",
+    "name": "jelastic",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/jetnexus",
+    "location": "westus2",
+    "name": "jetnexus",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/jetware-srl",
+    "location": "westus2",
+    "name": "jetware-srl",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/jfrog",
+    "location": "westus2",
+    "name": "jfrog",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/jitterbit_integration",
+    "location": "westus2",
+    "name": "jitterbit_integration",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/jm-technology-inc",
+    "location": "westus2",
+    "name": "jm-technology-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/juniper-networks",
+    "location": "westus2",
+    "name": "juniper-networks",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/kaazing",
+    "location": "westus2",
+    "name": "kaazing",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/kali-linux",
+    "location": "westus2",
+    "name": "kali-linux",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Kaspersky.Lab",
+    "location": "westus2",
+    "name": "Kaspersky.Lab",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/KasperskyLab.SecurityAgent",
+    "location": "westus2",
+    "name": "KasperskyLab.SecurityAgent",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/KasperskyLab.SecurityAgentTest",
+    "location": "westus2",
+    "name": "KasperskyLab.SecurityAgentTest",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/kaspersky_lab",
+    "location": "westus2",
+    "name": "kaspersky_lab",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/kazendi",
+    "location": "westus2",
+    "name": "kazendi",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/kelverion",
+    "location": "westus2",
+    "name": "kelverion",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/kemptech",
+    "location": "westus2",
+    "name": "kemptech",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/kepion",
+    "location": "westus2",
+    "name": "kepion",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/kinetica",
+    "location": "westus2",
+    "name": "kinetica",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/knime",
+    "location": "westus2",
+    "name": "knime",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/kobalt",
+    "location": "westus2",
+    "name": "kobalt",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/konsys-ltd",
+    "location": "westus2",
+    "name": "konsys-ltd",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/kryonsystems",
+    "location": "westus2",
+    "name": "kryonsystems",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/krypc-technologies-pvt-ltd",
+    "location": "westus2",
+    "name": "krypc-technologies-pvt-ltd",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/lancom-systems",
+    "location": "westus2",
+    "name": "lancom-systems",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/lansa",
+    "location": "westus2",
+    "name": "lansa",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/leap-orbit",
+    "location": "westus2",
+    "name": "leap-orbit",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/leostream-corporation",
+    "location": "westus2",
+    "name": "leostream-corporation",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/liebsoft",
+    "location": "westus2",
+    "name": "liebsoft",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/liquid-files",
+    "location": "westus2",
+    "name": "liquid-files",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/liquidware",
+    "location": "westus2",
+    "name": "liquidware",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/literatu",
+    "location": "westus2",
+    "name": "literatu",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/loadbalancer",
+    "location": "westus2",
+    "name": "loadbalancer",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/logsign",
+    "location": "westus2",
+    "name": "logsign",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/logtrust",
+    "location": "westus2",
+    "name": "logtrust",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/looker",
+    "location": "westus2",
+    "name": "looker",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/lti-lt-infotech",
+    "location": "westus2",
+    "name": "lti-lt-infotech",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/luminate-security",
+    "location": "westus2",
+    "name": "luminate-security",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/machinesense",
+    "location": "westus2",
+    "name": "machinesense",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/maidenhead-bridge",
+    "location": "westus2",
+    "name": "maidenhead-bridge",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/manageengine",
+    "location": "westus2",
+    "name": "manageengine",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/mapd",
+    "location": "westus2",
+    "name": "mapd",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/mapr-technologies",
+    "location": "westus2",
+    "name": "mapr-technologies",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/marand",
+    "location": "westus2",
+    "name": "marand",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/mariadb",
+    "location": "westus2",
+    "name": "mariadb",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/marklogic",
+    "location": "westus2",
+    "name": "marklogic",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/massiveanalytic-",
+    "location": "westus2",
+    "name": "massiveanalytic-",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/mathworks-deployment",
+    "location": "westus2",
+    "name": "mathworks-deployment",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/mathworks-inc",
+    "location": "westus2",
+    "name": "mathworks-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/matillion",
+    "location": "westus2",
+    "name": "matillion",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/mavinglobal",
+    "location": "westus2",
+    "name": "mavinglobal",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/McAfee.EndpointSecurity",
+    "location": "westus2",
+    "name": "McAfee.EndpointSecurity",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/McAfee.EndpointSecurity.test3",
+    "location": "westus2",
+    "name": "McAfee.EndpointSecurity.test3",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/meanio",
+    "location": "westus2",
+    "name": "meanio",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/media3-technologies-llc",
+    "location": "westus2",
+    "name": "media3-technologies-llc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/mendix",
+    "location": "westus2",
+    "name": "mendix",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/mettainnovations-4900054",
+    "location": "westus2",
+    "name": "mettainnovations-4900054",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/mfe_azure",
+    "location": "westus2",
+    "name": "mfe_azure",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/mfiles",
+    "location": "westus2",
+    "name": "mfiles",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/mico",
+    "location": "westus2",
+    "name": "mico",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/micro-focus",
+    "location": "westus2",
+    "name": "micro-focus",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/microlinkpcukltd",
+    "location": "westus2",
+    "name": "microlinkpcukltd",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/microsoft-ads",
+    "location": "westus2",
+    "name": "microsoft-ads",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/microsoft-aks",
+    "location": "westus2",
+    "name": "microsoft-aks",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/microsoft-avere",
+    "location": "westus2",
+    "name": "microsoft-avere",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/microsoft-azure-batch",
+    "location": "westus2",
+    "name": "microsoft-azure-batch",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/microsoft-azure-compute",
+    "location": "westus2",
+    "name": "microsoft-azure-compute",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/microsoft-dsvm",
+    "location": "westus2",
+    "name": "microsoft-dsvm",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/microsoft-hyperv",
+    "location": "westus2",
+    "name": "microsoft-hyperv",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.AKS",
+    "location": "westus2",
+    "name": "Microsoft.AKS",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.ActiveDirectory",
+    "location": "westus2",
+    "name": "Microsoft.Azure.ActiveDirectory",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.ActiveDirectory.LinuxSSH",
+    "location": "westus2",
+    "name": "Microsoft.Azure.ActiveDirectory.LinuxSSH",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.Applications",
+    "location": "westus2",
+    "name": "Microsoft.Azure.Applications",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.Backup.Test",
+    "location": "westus2",
+    "name": "Microsoft.Azure.Backup.Test",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.Backup.Test.Edp",
+    "location": "westus2",
+    "name": "Microsoft.Azure.Backup.Test.Edp",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.Diagnostics",
+    "location": "westus2",
+    "name": "Microsoft.Azure.Diagnostics",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.Diagnostics.Build.Test",
+    "location": "westus2",
+    "name": "Microsoft.Azure.Diagnostics.Build.Test",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.Extensions",
+    "location": "westus2",
+    "name": "Microsoft.Azure.Extensions",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.Geneva",
+    "location": "westus2",
+    "name": "Microsoft.Azure.Geneva",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.KeyVault",
+    "location": "westus2",
+    "name": "Microsoft.Azure.KeyVault",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.KeyVault.Edp",
+    "location": "westus2",
+    "name": "Microsoft.Azure.KeyVault.Edp",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.Monitoring.DependencyAgent",
+    "location": "westus2",
+    "name": "Microsoft.Azure.Monitoring.DependencyAgent",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.Networking.SDN",
+    "location": "westus2",
+    "name": "Microsoft.Azure.Networking.SDN",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.NetworkWatcher",
+    "location": "westus2",
+    "name": "Microsoft.Azure.NetworkWatcher",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.Performance.Diagnostics",
+    "location": "westus2",
+    "name": "Microsoft.Azure.Performance.Diagnostics",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.RecoveryServices",
+    "location": "westus2",
+    "name": "Microsoft.Azure.RecoveryServices",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.RecoveryServices.Edp",
+    "location": "westus2",
+    "name": "Microsoft.Azure.RecoveryServices.Edp",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.RecoveryServices.SiteRecovery",
+    "location": "westus2",
+    "name": "Microsoft.Azure.RecoveryServices.SiteRecovery",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.RecoveryServices.SiteRecovery2",
+    "location": "westus2",
+    "name": "Microsoft.Azure.RecoveryServices.SiteRecovery2",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.RecoveryServices.WorkloadBackup",
+    "location": "westus2",
+    "name": "Microsoft.Azure.RecoveryServices.WorkloadBackup",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.RecoveryServices.WorkloadBackup.Edp",
+    "location": "westus2",
+    "name": "Microsoft.Azure.RecoveryServices.WorkloadBackup.Edp",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.Security",
+    "location": "westus2",
+    "name": "Microsoft.Azure.Security",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.Security.AntimalwareSignature",
+    "location": "westus2",
+    "name": "Microsoft.Azure.Security.AntimalwareSignature",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.Security.Dsms",
+    "location": "westus2",
+    "name": "Microsoft.Azure.Security.Dsms",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.Security.Edp",
+    "location": "westus2",
+    "name": "Microsoft.Azure.Security.Edp",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.Security.Test",
+    "location": "westus2",
+    "name": "Microsoft.Azure.Security.Test",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.SiteRecovery.Test",
+    "location": "westus2",
+    "name": "Microsoft.Azure.SiteRecovery.Test",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.SiteRecovery2.Test",
+    "location": "westus2",
+    "name": "Microsoft.Azure.SiteRecovery2.Test",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.Test.Identity",
+    "location": "westus2",
+    "name": "Microsoft.Azure.Test.Identity",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Azure.WindowsFabric.Test",
+    "location": "westus2",
+    "name": "Microsoft.Azure.WindowsFabric.Test",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.AzureCAT.AzureEnhancedMonitoring",
+    "location": "westus2",
+    "name": "Microsoft.AzureCAT.AzureEnhancedMonitoring",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.AzureCAT.AzureEnhancedMonitoringTest",
+    "location": "westus2",
+    "name": "Microsoft.AzureCAT.AzureEnhancedMonitoringTest",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.AzureSecurity.JITAccess",
+    "location": "westus2",
+    "name": "Microsoft.AzureSecurity.JITAccess",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.CloudBackup.Workload.Extension",
+    "location": "westus2",
+    "name": "Microsoft.CloudBackup.Workload.Extension",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.CloudBackup.Workload.Extension.Edp",
+    "location": "westus2",
+    "name": "Microsoft.CloudBackup.Workload.Extension.Edp",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Compute",
+    "location": "westus2",
+    "name": "Microsoft.Compute",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.CPlat.Core",
+    "location": "westus2",
+    "name": "Microsoft.CPlat.Core",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.CPlat.Core.Edp",
+    "location": "westus2",
+    "name": "Microsoft.CPlat.Core.Edp",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.EnterpriseCloud.Monitoring",
+    "location": "westus2",
+    "name": "Microsoft.EnterpriseCloud.Monitoring",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.EnterpriseCloud.Monitoring.Edp",
+    "location": "westus2",
+    "name": "Microsoft.EnterpriseCloud.Monitoring.Edp",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.EnterpriseCloud.Monitoring.Test",
+    "location": "westus2",
+    "name": "Microsoft.EnterpriseCloud.Monitoring.Test",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Golive.Extensions",
+    "location": "westus2",
+    "name": "Microsoft.Golive.Extensions",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.GuestConfig.Test",
+    "location": "westus2",
+    "name": "Microsoft.GuestConfig.Test",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.GuestConfiguration",
+    "location": "westus2",
+    "name": "Microsoft.GuestConfiguration",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.GuestConfiguration.Test",
+    "location": "westus2",
+    "name": "Microsoft.GuestConfiguration.Test",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.HpcCompute",
+    "location": "westus2",
+    "name": "Microsoft.HpcCompute",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.HpcCompute.Edp",
+    "location": "westus2",
+    "name": "Microsoft.HpcCompute.Edp",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.HpcPack",
+    "location": "westus2",
+    "name": "Microsoft.HpcPack",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.ManagedIdentity",
+    "location": "westus2",
+    "name": "Microsoft.ManagedIdentity",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.ManagedServices",
+    "location": "westus2",
+    "name": "Microsoft.ManagedServices",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.OSTCExtensions",
+    "location": "westus2",
+    "name": "Microsoft.OSTCExtensions",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.OSTCExtensions.Edp",
+    "location": "westus2",
+    "name": "Microsoft.OSTCExtensions.Edp",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.OSTCExtensions.Test",
+    "location": "westus2",
+    "name": "Microsoft.OSTCExtensions.Test",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Powershell",
+    "location": "westus2",
+    "name": "Microsoft.Powershell",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Powershell.Test",
+    "location": "westus2",
+    "name": "Microsoft.Powershell.Test",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Powershell.Test01",
+    "location": "westus2",
+    "name": "Microsoft.Powershell.Test01",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.SqlServer.Managability.IaaS.Test",
+    "location": "westus2",
+    "name": "Microsoft.SqlServer.Managability.IaaS.Test",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.SqlServer.Management",
+    "location": "westus2",
+    "name": "Microsoft.SqlServer.Management",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.SystemCenter",
+    "location": "westus2",
+    "name": "Microsoft.SystemCenter",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.SystemCenter.Test",
+    "location": "westus2",
+    "name": "Microsoft.SystemCenter.Test",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.TestSqlServer.Edp",
+    "location": "westus2",
+    "name": "Microsoft.TestSqlServer.Edp",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.VisualStudio.Azure.ETWTraceListenerService",
+    "location": "westus2",
+    "name": "Microsoft.VisualStudio.Azure.ETWTraceListenerService",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.VisualStudio.Azure.RemoteDebug",
+    "location": "westus2",
+    "name": "Microsoft.VisualStudio.Azure.RemoteDebug",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.VisualStudio.Azure.RemoteDebug.Json",
+    "location": "westus2",
+    "name": "Microsoft.VisualStudio.Azure.RemoteDebug.Json",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.VisualStudio.ServiceProfiler",
+    "location": "westus2",
+    "name": "Microsoft.VisualStudio.ServiceProfiler",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.VisualStudio.Services",
+    "location": "westus2",
+    "name": "Microsoft.VisualStudio.Services",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Windows.AzureRemoteApp.Test",
+    "location": "westus2",
+    "name": "Microsoft.Windows.AzureRemoteApp.Test",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.Windows.RemoteDesktop",
+    "location": "westus2",
+    "name": "Microsoft.Windows.RemoteDesktop",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Microsoft.WindowsAzure.Compute",
+    "location": "westus2",
+    "name": "Microsoft.WindowsAzure.Compute",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/MicrosoftAzureSiteRecovery",
+    "location": "westus2",
+    "name": "MicrosoftAzureSiteRecovery",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/MicrosoftBizTalkServer",
+    "location": "westus2",
+    "name": "MicrosoftBizTalkServer",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/MicrosoftDynamicsAX",
+    "location": "westus2",
+    "name": "MicrosoftDynamicsAX",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/MicrosoftDynamicsNAV",
+    "location": "westus2",
+    "name": "MicrosoftDynamicsNAV",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/MicrosoftHybridCloudStorage",
+    "location": "westus2",
+    "name": "MicrosoftHybridCloudStorage",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/MicrosoftOSTC",
+    "location": "westus2",
+    "name": "MicrosoftOSTC",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/MicrosoftRServer",
+    "location": "westus2",
+    "name": "MicrosoftRServer",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/MicrosoftSharePoint",
+    "location": "westus2",
+    "name": "MicrosoftSharePoint",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/MicrosoftSQLServer",
+    "location": "westus2",
+    "name": "MicrosoftSQLServer",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/MicrosoftTestLinuxPPS",
+    "location": "westus2",
+    "name": "MicrosoftTestLinuxPPS",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/MicrosoftVisualStudio",
+    "location": "westus2",
+    "name": "MicrosoftVisualStudio",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/MicrosoftWindowsDesktop",
+    "location": "westus2",
+    "name": "MicrosoftWindowsDesktop",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/MicrosoftWindowsServer",
+    "location": "westus2",
+    "name": "MicrosoftWindowsServer",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/MicrosoftWindowsServerHPCPack",
+    "location": "westus2",
+    "name": "MicrosoftWindowsServerHPCPack",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/microsoft_iot_edge",
+    "location": "westus2",
+    "name": "microsoft_iot_edge",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/microstrategy",
+    "location": "westus2",
+    "name": "microstrategy",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/midfin",
+    "location": "westus2",
+    "name": "midfin",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/midvision",
+    "location": "westus2",
+    "name": "midvision",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/mindcti",
+    "location": "westus2",
+    "name": "mindcti",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/miraclelinux",
+    "location": "westus2",
+    "name": "miraclelinux",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/miracl_linux",
+    "location": "westus2",
+    "name": "miracl_linux",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/miri-infotech-pvt-ltd",
+    "location": "westus2",
+    "name": "miri-infotech-pvt-ltd",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/mobilab",
+    "location": "westus2",
+    "name": "mobilab",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/modern-systems",
+    "location": "westus2",
+    "name": "modern-systems",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/moogsoft",
+    "location": "westus2",
+    "name": "moogsoft",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/moviemasher",
+    "location": "westus2",
+    "name": "moviemasher",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/msopentech",
+    "location": "westus2",
+    "name": "msopentech",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/mtnfog",
+    "location": "westus2",
+    "name": "mtnfog",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/multisoft-ab",
+    "location": "westus2",
+    "name": "multisoft-ab",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/mvp-systems",
+    "location": "westus2",
+    "name": "mvp-systems",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/mxhero",
+    "location": "westus2",
+    "name": "mxhero",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/my-com",
+    "location": "westus2",
+    "name": "my-com",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/narrativescience",
+    "location": "westus2",
+    "name": "narrativescience",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/nasuni",
+    "location": "westus2",
+    "name": "nasuni",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/ncbi",
+    "location": "westus2",
+    "name": "ncbi",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/ndl",
+    "location": "westus2",
+    "name": "ndl",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/nebbiolo-technologies-inc",
+    "location": "westus2",
+    "name": "nebbiolo-technologies-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/nec-technologies",
+    "location": "westus2",
+    "name": "nec-technologies",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/neo4j",
+    "location": "westus2",
+    "name": "neo4j",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/neowaybusinesssolutions-4956350",
+    "location": "westus2",
+    "name": "neowaybusinesssolutions-4956350",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/netapp",
+    "location": "westus2",
+    "name": "netapp",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/netatwork",
+    "location": "westus2",
+    "name": "netatwork",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/netgate",
+    "location": "westus2",
+    "name": "netgate",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/netikus-net-ltd",
+    "location": "westus2",
+    "name": "netikus-net-ltd",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/netiq",
+    "location": "westus2",
+    "name": "netiq",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/netka",
+    "location": "westus2",
+    "name": "netka",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/netmail",
+    "location": "westus2",
+    "name": "netmail",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/netscout",
+    "location": "westus2",
+    "name": "netscout",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/netspi",
+    "location": "westus2",
+    "name": "netspi",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/netsweeper",
+    "location": "westus2",
+    "name": "netsweeper",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/netwrix",
+    "location": "westus2",
+    "name": "netwrix",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/netx",
+    "location": "westus2",
+    "name": "netx",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/neusoft-neteye",
+    "location": "westus2",
+    "name": "neusoft-neteye",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/nginxinc",
+    "location": "westus2",
+    "name": "nginxinc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/nicepeopleatwork",
+    "location": "westus2",
+    "name": "nicepeopleatwork",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/niolabs-5229713",
+    "location": "westus2",
+    "name": "niolabs-5229713",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/nodejsapi",
+    "location": "westus2",
+    "name": "nodejsapi",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/noobaa",
+    "location": "westus2",
+    "name": "noobaa",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/norsync",
+    "location": "westus2",
+    "name": "norsync",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/northbridge-secure",
+    "location": "westus2",
+    "name": "northbridge-secure",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/nri",
+    "location": "westus2",
+    "name": "nri",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/ntt-data-intellilink-corporation",
+    "location": "westus2",
+    "name": "ntt-data-intellilink-corporation",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/nttdata",
+    "location": "westus2",
+    "name": "nttdata",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/nuco-networks",
+    "location": "westus2",
+    "name": "nuco-networks",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/nuxeo",
+    "location": "westus2",
+    "name": "nuxeo",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/nvidia",
+    "location": "westus2",
+    "name": "nvidia",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/o2mc-real-time-data-platform",
+    "location": "westus2",
+    "name": "o2mc-real-time-data-platform",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/objectivity-inc",
+    "location": "westus2",
+    "name": "objectivity-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/oceanblue-cloud",
+    "location": "westus2",
+    "name": "oceanblue-cloud",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/OctopusDeploy.Tentacle",
+    "location": "westus2",
+    "name": "OctopusDeploy.Tentacle",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/officeatwork-ag",
+    "location": "westus2",
+    "name": "officeatwork-ag",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/omega-software",
+    "location": "westus2",
+    "name": "omega-software",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/onapsis",
+    "location": "westus2",
+    "name": "onapsis",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/oncore_cloud_services-4944214",
+    "location": "westus2",
+    "name": "oncore_cloud_services-4944214",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/ontology",
+    "location": "westus2",
+    "name": "ontology",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/onyx-point-inc",
+    "location": "westus2",
+    "name": "onyx-point-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/op5",
+    "location": "westus2",
+    "name": "op5",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/open-connect-systems",
+    "location": "westus2",
+    "name": "open-connect-systems",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/opencell",
+    "location": "westus2",
+    "name": "opencell",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/OpenLogic",
+    "location": "westus2",
+    "name": "OpenLogic",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/opentext",
+    "location": "westus2",
+    "name": "opentext",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/openvpn",
+    "location": "westus2",
+    "name": "openvpn",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/opslogix",
+    "location": "westus2",
+    "name": "opslogix",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Oracle",
+    "location": "westus2",
+    "name": "Oracle",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/oriana",
+    "location": "westus2",
+    "name": "oriana",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/orientdb",
+    "location": "westus2",
+    "name": "orientdb",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/osirium-ltd",
+    "location": "westus2",
+    "name": "osirium-ltd",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/osisoft",
+    "location": "westus2",
+    "name": "osisoft",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/osnexus",
+    "location": "westus2",
+    "name": "osnexus",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/outsystems",
+    "location": "westus2",
+    "name": "outsystems",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/paloaltonetworks",
+    "location": "westus2",
+    "name": "paloaltonetworks",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/panorama-necto",
+    "location": "westus2",
+    "name": "panorama-necto",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/panzura-file-system",
+    "location": "westus2",
+    "name": "panzura-file-system",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/parallels",
+    "location": "westus2",
+    "name": "parallels",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/parasoft",
+    "location": "westus2",
+    "name": "parasoft",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/passlogy",
+    "location": "westus2",
+    "name": "passlogy",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/paxata",
+    "location": "westus2",
+    "name": "paxata",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/peer-software-inc",
+    "location": "westus2",
+    "name": "peer-software-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/penta-security-systems-inc",
+    "location": "westus2",
+    "name": "penta-security-systems-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/percona",
+    "location": "westus2",
+    "name": "percona",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/pivotal",
+    "location": "westus2",
+    "name": "pivotal",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/plesk",
+    "location": "westus2",
+    "name": "plesk",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/portalarchitects",
+    "location": "westus2",
+    "name": "portalarchitects",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/postgres-pro",
+    "location": "westus2",
+    "name": "postgres-pro",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/prestashop",
+    "location": "westus2",
+    "name": "prestashop",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/prestige_informatique-1090178",
+    "location": "westus2",
+    "name": "prestige_informatique-1090178",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/prime-strategy",
+    "location": "westus2",
+    "name": "prime-strategy",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/primekey",
+    "location": "westus2",
+    "name": "primekey",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/pro-vision",
+    "location": "westus2",
+    "name": "pro-vision",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/process-one",
+    "location": "westus2",
+    "name": "process-one",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/processgold",
+    "location": "westus2",
+    "name": "processgold",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/profecia",
+    "location": "westus2",
+    "name": "profecia",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Profiler.Master.Test",
+    "location": "westus2",
+    "name": "Profiler.Master.Test",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/profisee",
+    "location": "westus2",
+    "name": "profisee",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/progelspa",
+    "location": "westus2",
+    "name": "progelspa",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/ptsecurity",
+    "location": "westus2",
+    "name": "ptsecurity",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/pulse-secure",
+    "location": "westus2",
+    "name": "pulse-secure",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Puppet",
+    "location": "westus2",
+    "name": "Puppet",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/PuppetLabs",
+    "location": "westus2",
+    "name": "PuppetLabs",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/PuppetLabs.Test",
+    "location": "westus2",
+    "name": "PuppetLabs.Test",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/pydio",
+    "location": "westus2",
+    "name": "pydio",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/pyramidanalytics",
+    "location": "westus2",
+    "name": "pyramidanalytics",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/qlik",
+    "location": "westus2",
+    "name": "qlik",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/qore-technologies",
+    "location": "westus2",
+    "name": "qore-technologies",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/qs-solutions",
+    "location": "westus2",
+    "name": "qs-solutions",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Qualys",
+    "location": "westus2",
+    "name": "Qualys",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Qualys.Test",
+    "location": "westus2",
+    "name": "Qualys.Test",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/qualysguard",
+    "location": "westus2",
+    "name": "qualysguard",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/quasardb",
+    "location": "westus2",
+    "name": "quasardb",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/qubole-inc",
+    "location": "westus2",
+    "name": "qubole-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/quest",
+    "location": "westus2",
+    "name": "quest",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/racknap",
+    "location": "westus2",
+    "name": "racknap",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/radiant-logic",
+    "location": "westus2",
+    "name": "radiant-logic",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/radware",
+    "location": "westus2",
+    "name": "radware",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/rancher",
+    "location": "westus2",
+    "name": "rancher",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/rapid7",
+    "location": "westus2",
+    "name": "rapid7",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Rapid7.InsightPlatform",
+    "location": "westus2",
+    "name": "Rapid7.InsightPlatform",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/rapidminer",
+    "location": "westus2",
+    "name": "rapidminer",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/rds",
+    "location": "westus2",
+    "name": "rds",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/realm",
+    "location": "westus2",
+    "name": "realm",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/reblaze",
+    "location": "westus2",
+    "name": "reblaze",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/RedHat",
+    "location": "westus2",
+    "name": "RedHat",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/redpoint-global",
+    "location": "westus2",
+    "name": "redpoint-global",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/refinitiv-4807503",
+    "location": "westus2",
+    "name": "refinitiv-4807503",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/relevance-lab",
+    "location": "westus2",
+    "name": "relevance-lab",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/remotelearner",
+    "location": "westus2",
+    "name": "remotelearner",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/res",
+    "location": "westus2",
+    "name": "res",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/resco",
+    "location": "westus2",
+    "name": "resco",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/responder-corp",
+    "location": "westus2",
+    "name": "responder-corp",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/revolution-analytics",
+    "location": "westus2",
+    "name": "revolution-analytics",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/ribboncommunications",
+    "location": "westus2",
+    "name": "ribboncommunications",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/riverbed",
+    "location": "westus2",
+    "name": "riverbed",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/rocketsoftware",
+    "location": "westus2",
+    "name": "rocketsoftware",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/roktech",
+    "location": "westus2",
+    "name": "roktech",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/rsa-security-llc",
+    "location": "westus2",
+    "name": "rsa-security-llc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/rsk-labs",
+    "location": "westus2",
+    "name": "rsk-labs",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/rstudio-5237862",
+    "location": "westus2",
+    "name": "rstudio-5237862",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/rtts",
+    "location": "westus2",
+    "name": "rtts",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/rubrik-inc",
+    "location": "westus2",
+    "name": "rubrik-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/s2ix",
+    "location": "westus2",
+    "name": "s2ix",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/saama",
+    "location": "westus2",
+    "name": "saama",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/saasame-limited",
+    "location": "westus2",
+    "name": "saasame-limited",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/safeticatechnologiessro",
+    "location": "westus2",
+    "name": "safeticatechnologiessro",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/saltstack",
+    "location": "westus2",
+    "name": "saltstack",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/samsung-sds",
+    "location": "westus2",
+    "name": "samsung-sds",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/samsungsds-cello",
+    "location": "westus2",
+    "name": "samsungsds-cello",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/sap",
+    "location": "westus2",
+    "name": "sap",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/scaidata",
+    "location": "westus2",
+    "name": "scaidata",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/scalearc",
+    "location": "westus2",
+    "name": "scalearc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/scalegrid",
+    "location": "westus2",
+    "name": "scalegrid",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/scality",
+    "location": "westus2",
+    "name": "scality",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/scsk",
+    "location": "westus2",
+    "name": "scsk",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/secureworks",
+    "location": "westus2",
+    "name": "secureworks",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/semperis",
+    "location": "westus2",
+    "name": "semperis",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/sentriumsl",
+    "location": "westus2",
+    "name": "sentriumsl",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/sentryone",
+    "location": "westus2",
+    "name": "sentryone",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/service-control-inc",
+    "location": "westus2",
+    "name": "service-control-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/shadow-soft",
+    "location": "westus2",
+    "name": "shadow-soft",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/shareshiftneeraj.test",
+    "location": "westus2",
+    "name": "shareshiftneeraj.test",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/sightapps",
+    "location": "westus2",
+    "name": "sightapps",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/signal-sciences",
+    "location": "westus2",
+    "name": "signal-sciences",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/silver-peak-systems",
+    "location": "westus2",
+    "name": "silver-peak-systems",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/simmachinesinc",
+    "location": "westus2",
+    "name": "simmachinesinc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/simpligov",
+    "location": "westus2",
+    "name": "simpligov",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/simplygon",
+    "location": "westus2",
+    "name": "simplygon",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/sinefa",
+    "location": "westus2",
+    "name": "sinefa",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/singapore-telecommunications-limited",
+    "location": "westus2",
+    "name": "singapore-telecommunications-limited",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/sios_datakeeper",
+    "location": "westus2",
+    "name": "sios_datakeeper",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Site24x7",
+    "location": "westus2",
+    "name": "Site24x7",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/skyarc",
+    "location": "westus2",
+    "name": "skyarc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/smartmessage-autoflow",
+    "location": "westus2",
+    "name": "smartmessage-autoflow",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/snaplogic",
+    "location": "westus2",
+    "name": "snaplogic",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/snapt-adc",
+    "location": "westus2",
+    "name": "snapt-adc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/snips",
+    "location": "westus2",
+    "name": "snips",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/soasta",
+    "location": "westus2",
+    "name": "soasta",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/softnas",
+    "location": "westus2",
+    "name": "softnas",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/soha",
+    "location": "westus2",
+    "name": "soha",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/solanolabs",
+    "location": "westus2",
+    "name": "solanolabs",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/solar-security",
+    "location": "westus2",
+    "name": "solar-security",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/solarwinds",
+    "location": "westus2",
+    "name": "solarwinds",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/sonicwall-inc",
+    "location": "westus2",
+    "name": "sonicwall-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/sophos",
+    "location": "westus2",
+    "name": "sophos",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/south-river-technologies",
+    "location": "westus2",
+    "name": "south-river-technologies",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/spacecurve",
+    "location": "westus2",
+    "name": "spacecurve",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/spagobi",
+    "location": "westus2",
+    "name": "spagobi",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/sparklinglogic",
+    "location": "westus2",
+    "name": "sparklinglogic",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/spektra",
+    "location": "westus2",
+    "name": "spektra",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/sphere3d",
+    "location": "westus2",
+    "name": "sphere3d",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/splunk",
+    "location": "westus2",
+    "name": "splunk",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/sqlstream",
+    "location": "westus2",
+    "name": "sqlstream",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/src-solution",
+    "location": "westus2",
+    "name": "src-solution",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/stackato-platform-as-a-service",
+    "location": "westus2",
+    "name": "stackato-platform-as-a-service",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Stackify.LinuxAgent.Extension",
+    "location": "westus2",
+    "name": "Stackify.LinuxAgent.Extension",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/stackstorm",
+    "location": "westus2",
+    "name": "stackstorm",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/startekfingerprintmatch",
+    "location": "westus2",
+    "name": "startekfingerprintmatch",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/starwind",
+    "location": "westus2",
+    "name": "starwind",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/StatusReport.Diagnostics.Test",
+    "location": "westus2",
+    "name": "StatusReport.Diagnostics.Test",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/stealthbits",
+    "location": "westus2",
+    "name": "stealthbits",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/steelhive",
+    "location": "westus2",
+    "name": "steelhive",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/stonefly",
+    "location": "westus2",
+    "name": "stonefly",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/stormshield",
+    "location": "westus2",
+    "name": "stormshield",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/storreduce",
+    "location": "westus2",
+    "name": "storreduce",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/stratumn",
+    "location": "westus2",
+    "name": "stratumn",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/streamsets",
+    "location": "westus2",
+    "name": "streamsets",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/striim",
+    "location": "westus2",
+    "name": "striim",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/sumologic",
+    "location": "westus2",
+    "name": "sumologic",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/SUSE",
+    "location": "westus2",
+    "name": "SUSE",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Symantec",
+    "location": "westus2",
+    "name": "Symantec",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Symantec.CloudWorkloadProtection",
+    "location": "westus2",
+    "name": "Symantec.CloudWorkloadProtection",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Symantec.CloudWorkloadProtection.Test",
+    "location": "westus2",
+    "name": "Symantec.CloudWorkloadProtection.Test",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Symantec.CloudWorkloadProtection.TestOnStage",
+    "location": "westus2",
+    "name": "Symantec.CloudWorkloadProtection.TestOnStage",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Symantec.QA",
+    "location": "westus2",
+    "name": "Symantec.QA",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Symantec.staging",
+    "location": "westus2",
+    "name": "Symantec.staging",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Symantec.test",
+    "location": "westus2",
+    "name": "Symantec.test",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Symantec.test.ru2.latest",
+    "location": "westus2",
+    "name": "Symantec.test.ru2.latest",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Symantec.test.ru2final",
+    "location": "westus2",
+    "name": "Symantec.test.ru2final",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Symantec.test.ru4mp1",
+    "location": "westus2",
+    "name": "Symantec.test.ru4mp1",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Symantec.test.ru4mp1.latest",
+    "location": "westus2",
+    "name": "Symantec.test.ru4mp1.latest",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/symanteccorporation",
+    "location": "westus2",
+    "name": "symanteccorporation",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/symantectest1",
+    "location": "westus2",
+    "name": "symantectest1",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/synack-inc",
+    "location": "westus2",
+    "name": "synack-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/syncfusion",
+    "location": "westus2",
+    "name": "syncfusion",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/syncfusionbigdataplatfor",
+    "location": "westus2",
+    "name": "syncfusionbigdataplatfor",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/synechron-technologies",
+    "location": "westus2",
+    "name": "synechron-technologies",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/syte",
+    "location": "westus2",
+    "name": "syte",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/tableau",
+    "location": "westus2",
+    "name": "tableau",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/tactic",
+    "location": "westus2",
+    "name": "tactic",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/talari-networks",
+    "location": "westus2",
+    "name": "talari-networks",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/talena-inc",
+    "location": "westus2",
+    "name": "talena-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/talend",
+    "location": "westus2",
+    "name": "talend",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/talon",
+    "location": "westus2",
+    "name": "talon",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/targit",
+    "location": "westus2",
+    "name": "targit",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/tata_communications",
+    "location": "westus2",
+    "name": "tata_communications",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/tavendo",
+    "location": "westus2",
+    "name": "tavendo",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/te-systems",
+    "location": "westus2",
+    "name": "te-systems",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/techdivision",
+    "location": "westus2",
+    "name": "techdivision",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/techlatest",
+    "location": "westus2",
+    "name": "techlatest",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/telepat",
+    "location": "westus2",
+    "name": "telepat",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/tenable",
+    "location": "westus2",
+    "name": "tenable",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/teradata",
+    "location": "westus2",
+    "name": "teradata",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Teradici",
+    "location": "westus2",
+    "name": "Teradici",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/teramindinc",
+    "location": "westus2",
+    "name": "teramindinc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Test.Gemalto.SafeNet.ProtectV",
+    "location": "westus2",
+    "name": "Test.Gemalto.SafeNet.ProtectV",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Test.HP.AppDefender",
+    "location": "westus2",
+    "name": "Test.HP.AppDefender",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Test.Microsoft.VisualStudio.Services",
+    "location": "westus2",
+    "name": "Test.Microsoft.VisualStudio.Services",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Test.NJHP.AppDefender",
+    "location": "westus2",
+    "name": "Test.NJHP.AppDefender",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Test.TrendMicro.DeepSecurity",
+    "location": "westus2",
+    "name": "Test.TrendMicro.DeepSecurity",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Test1.NJHP.AppDefender",
+    "location": "westus2",
+    "name": "Test1.NJHP.AppDefender",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Test3.Microsoft.VisualStudio.Services",
+    "location": "westus2",
+    "name": "Test3.Microsoft.VisualStudio.Services",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/thales-vormetric",
+    "location": "westus2",
+    "name": "thales-vormetric",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/things-board",
+    "location": "westus2",
+    "name": "things-board",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/thomson-reuters",
+    "location": "westus2",
+    "name": "thomson-reuters",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/thorntechnologiesllc",
+    "location": "westus2",
+    "name": "thorntechnologiesllc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/thoughtspot-inc",
+    "location": "westus2",
+    "name": "thoughtspot-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/tibco-software",
+    "location": "westus2",
+    "name": "tibco-software",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/tig",
+    "location": "westus2",
+    "name": "tig",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/tiger-technology",
+    "location": "westus2",
+    "name": "tiger-technology",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/tigergraph",
+    "location": "westus2",
+    "name": "tigergraph",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/timextender",
+    "location": "westus2",
+    "name": "timextender",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/tmaxsoft",
+    "location": "westus2",
+    "name": "tmaxsoft",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/tokyosystemhouse",
+    "location": "westus2",
+    "name": "tokyosystemhouse",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/topdesk",
+    "location": "westus2",
+    "name": "topdesk",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/topicus",
+    "location": "westus2",
+    "name": "topicus",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/torusware",
+    "location": "westus2",
+    "name": "torusware",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/totemo",
+    "location": "westus2",
+    "name": "totemo",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/townsend-security",
+    "location": "westus2",
+    "name": "townsend-security",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/transvault",
+    "location": "westus2",
+    "name": "transvault",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/trendmicro",
+    "location": "westus2",
+    "name": "trendmicro",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/TrendMicro.DeepSecurity",
+    "location": "westus2",
+    "name": "TrendMicro.DeepSecurity",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/TrendMicro.DeepSecurity.Test",
+    "location": "westus2",
+    "name": "TrendMicro.DeepSecurity.Test",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/TrendMicro.PortalProtect",
+    "location": "westus2",
+    "name": "TrendMicro.PortalProtect",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/tresorit",
+    "location": "westus2",
+    "name": "tresorit",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/truestack",
+    "location": "westus2",
+    "name": "truestack",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/tsa-public-service",
+    "location": "westus2",
+    "name": "tsa-public-service",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/tunnelbiz",
+    "location": "westus2",
+    "name": "tunnelbiz",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/twistlock",
+    "location": "westus2",
+    "name": "twistlock",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/typesafe",
+    "location": "westus2",
+    "name": "typesafe",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/ubeeko",
+    "location": "westus2",
+    "name": "ubeeko",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/ubercloud",
+    "location": "westus2",
+    "name": "ubercloud",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/ulex",
+    "location": "westus2",
+    "name": "ulex",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/unifi-software",
+    "location": "westus2",
+    "name": "unifi-software",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/uniprint-net",
+    "location": "westus2",
+    "name": "uniprint-net",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/unitrends",
+    "location": "westus2",
+    "name": "unitrends",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/untangle",
+    "location": "westus2",
+    "name": "untangle",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/usp",
+    "location": "westus2",
+    "name": "usp",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/valtix",
+    "location": "westus2",
+    "name": "valtix",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/varnish",
+    "location": "westus2",
+    "name": "varnish",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/vaultive-inc",
+    "location": "westus2",
+    "name": "vaultive-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/vbot",
+    "location": "westus2",
+    "name": "vbot",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/veeam",
+    "location": "westus2",
+    "name": "veeam",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/velocitydb-inc",
+    "location": "westus2",
+    "name": "velocitydb-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/velocloud",
+    "location": "westus2",
+    "name": "velocloud",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/vemn",
+    "location": "westus2",
+    "name": "vemn",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/veritas",
+    "location": "westus2",
+    "name": "veritas",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/versasec",
+    "location": "westus2",
+    "name": "versasec",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/vidispine",
+    "location": "westus2",
+    "name": "vidispine",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/vidizmo",
+    "location": "westus2",
+    "name": "vidizmo",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/vigyanlabs-innovations-pvt-ltd",
+    "location": "westus2",
+    "name": "vigyanlabs-innovations-pvt-ltd",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/viptela",
+    "location": "westus2",
+    "name": "viptela",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/vircom",
+    "location": "westus2",
+    "name": "vircom",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/visualsoft-center",
+    "location": "westus2",
+    "name": "visualsoft-center",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/vizixiotplatformretail001",
+    "location": "westus2",
+    "name": "vizixiotplatformretail001",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/vmturbo",
+    "location": "westus2",
+    "name": "vmturbo",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/volterraedgeservices",
+    "location": "westus2",
+    "name": "volterraedgeservices",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/Vormetric",
+    "location": "westus2",
+    "name": "Vormetric",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/vte",
+    "location": "westus2",
+    "name": "vte",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/vu-llc",
+    "location": "westus2",
+    "name": "vu-llc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/vyulabsinc",
+    "location": "westus2",
+    "name": "vyulabsinc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/WAD2AI.Diagnostics.Test",
+    "location": "westus2",
+    "name": "WAD2AI.Diagnostics.Test",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/WAD2EventHub.Diagnostics.Test",
+    "location": "westus2",
+    "name": "WAD2EventHub.Diagnostics.Test",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/wallarm",
+    "location": "westus2",
+    "name": "wallarm",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/wallix",
+    "location": "westus2",
+    "name": "wallix",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/wanpath-dba-myworkdrive",
+    "location": "westus2",
+    "name": "wanpath-dba-myworkdrive",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/wardy-it-solutions",
+    "location": "westus2",
+    "name": "wardy-it-solutions",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/warewolf-esb",
+    "location": "westus2",
+    "name": "warewolf-esb",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/watchguard-technologies",
+    "location": "westus2",
+    "name": "watchguard-technologies",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/webaloinc",
+    "location": "westus2",
+    "name": "webaloinc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/websense-apmailpe",
+    "location": "westus2",
+    "name": "websense-apmailpe",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/westernoceansoftwaresprivatelimited",
+    "location": "westus2",
+    "name": "westernoceansoftwaresprivatelimited",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/wherescapesoftware",
+    "location": "westus2",
+    "name": "wherescapesoftware",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/winmagic_securedoc_cloudvm",
+    "location": "westus2",
+    "name": "winmagic_securedoc_cloudvm",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/wmspanel",
+    "location": "westus2",
+    "name": "wmspanel",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/workshare-technology",
+    "location": "westus2",
+    "name": "workshare-technology",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/wowza",
+    "location": "westus2",
+    "name": "wowza",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/xcontentptyltd-1329748",
+    "location": "westus2",
+    "name": "xcontentptyltd-1329748",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/xendata-inc",
+    "location": "westus2",
+    "name": "xendata-inc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/xfinityinc",
+    "location": "westus2",
+    "name": "xfinityinc",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/xtremedata",
+    "location": "westus2",
+    "name": "xtremedata",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/xyzrd-group-ou",
+    "location": "westus2",
+    "name": "xyzrd-group-ou",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/yellowfin",
+    "location": "westus2",
+    "name": "yellowfin",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/your-shop-online",
+    "location": "westus2",
+    "name": "your-shop-online",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/z1",
+    "location": "westus2",
+    "name": "z1",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/z4it-aps",
+    "location": "westus2",
+    "name": "z4it-aps",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/zend",
+    "location": "westus2",
+    "name": "zend",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/zerodown_software",
+    "location": "westus2",
+    "name": "zerodown_software",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/zerto",
+    "location": "westus2",
+    "name": "zerto",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/zettalane_systems-5254599",
+    "location": "westus2",
+    "name": "zettalane_systems-5254599",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/zoomdata",
+    "location": "westus2",
+    "name": "zoomdata",
+    "tags": null
+  },
+  {
+    "id": "/Subscriptions/44ee1323-00ce-4b4f-bcf2-d279a3d621b1/Providers/Microsoft.Compute/Locations/westus2/Publishers/zscaler",
+    "location": "westus2",
+    "name": "zscaler",
+    "tags": null
+  }
+]
